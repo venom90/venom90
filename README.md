@@ -26,13 +26,13 @@ I'm Tirumal Rao, a passionate self-taught full stack web developer from India.
 ## 🤝 Connect with me
 
 <a href="https://linkedin.com/in/tirumalrao2" target="_blank">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://www.cdnlogo.com/logos/l/37/linkedin.svg" />
 </a>
 <a href="https://twitter.com/code_n_deploy" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="mailto:tirumal.rao.india@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg" />
 </a>
 
 <br />
