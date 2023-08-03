@@ -29,7 +29,7 @@ I'm Tirumal Rao, a passionate self-taught full stack web developer from India.
   <img align="left" alt="LinkdeIN" width="22px" src="https://www.cdnlogo.com/logos/l/37/linkedin.svg" />
 </a>
 <a href="https://twitter.com/code_n_deploy" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="mailto:tirumal.rao.india@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg" />
