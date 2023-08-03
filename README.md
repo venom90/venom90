@@ -7,7 +7,6 @@ I'm Tirumal Rao, a passionate self-taught full stack web developer from India.
 - 🌱 I’m currently learning **Advanced Golang**
 - 💼 I'm currently working as a **Full Stack Web Developer**
 - 📫 Reach me: [tirumal.rao.india@gmail.com](mailto:tirumal.rao.india@gmail.com)
-- ⚡ Fun fact: I love to spend my time with my two kids
 
 ## 🚀 Skills
 - **Languages:** Golang, JavaScript
