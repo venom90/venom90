@@ -1,6 +1,6 @@
 # Hello, There! 👋
 
-I'm Tirumal Rao, a passionate self-taught full stack web developer from India. 
+I'm venom90 (alias), a passionate self-taught full stack web developer from India. 
 
 ## 🙋‍♂️ About Me
 
