@@ -22,6 +22,9 @@ I'm venom90 (alias), a passionate self-taught full stack web developer from Indi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venom90&theme=tokyonight)
 
+## Languages and Tools:
+aws c cassandra cplusplus docker go java jenkins kafka linux postgresql postman python redis selenium travisci
+
 ## 🤝 Connect with me
 
 <a href="https://linkedin.com/in/tirumalrao2" target="_blank">
