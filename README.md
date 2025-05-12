@@ -6,7 +6,7 @@ I'm venom90 (alias), a passionate self-taught full stack web developer from Indi
 
 - 🌱 I’m currently learning **Advanced Golang**
 - 💼 I'm currently working as a **Full Stack Web Developer**
-- 📫 Reach me: [tirumal.rao.india@gmail.com](mailto:tirumal.rao.india@gmail.com)
+- 📫 Reach me: [venom90.github@gmail.com](mailto:venom90.github@gmail.com)
 
 ## 🚀 Skills
 - **Languages:** Golang, JavaScript
@@ -33,7 +33,7 @@ I'm venom90 (alias), a passionate self-taught full stack web developer from Indi
 <a href="https://twitter.com/code_n_deploy" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
-<a href="mailto:tirumal.rao.india@gmail.com">
+<a href="mailto:venom90.github@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg" />
 </a>
 
